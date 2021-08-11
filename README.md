@@ -18,6 +18,7 @@ To access this project on your local files, you can clone it using these steps
 1. CSS
 1. Bootstrap
 1. Git
+1. Javascript
 ### Live Site
 View [live](https://juma-moringa.github.io/My-Portfolio/)
 ### Licence
